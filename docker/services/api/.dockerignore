@@ -1,0 +1,9 @@
+node_modules
+# vendor
+.git
+bootstrap/cache/*
+storage/app
+storage/logs
+storage/framework/cache/data
+storage/framework/sessions/*
+storage/framework/testing
