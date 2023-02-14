@@ -58,7 +58,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-build-classic": "^31.1.0",
+    "@ckeditor/ckeditor5-build-classic": "^36.0.1",
     "@ckeditor/ckeditor5-vue": "^2.0.1",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@iconify/iconify": "^2.2.1",
